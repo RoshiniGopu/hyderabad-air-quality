@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# Raw datasets: keep large source files out of Git
+data/raw/
